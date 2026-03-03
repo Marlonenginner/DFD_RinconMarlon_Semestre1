@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'digite la temperatura actual'
+5
+1
+1
+t
+7
+0
+1
+4
+t<15
+7
+0
+1
+5
+t<=25
+4
+1
+18
+'Clima muy calido'
+13
+4
+1
+13
+'Clima ideal'
+13
+13
+4
+1
+12
+'clima frio'
+13
+1
